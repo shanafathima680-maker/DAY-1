@@ -17,3 +17,6 @@ nark=to make the word background colour
 u=underline a word 
 a href=hyperlink
 img src= to add image
+a href= " contact"
+body
+html
